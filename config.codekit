@@ -22,6 +22,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/bieres-bio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 444748,
+		"inputAbbreviatedPath": "\/img\/bieres-bio.jpg",
+		"outputAbbreviatedPath": "\/img\/bieres-bio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/citrouille-bio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 573905,
+		"inputAbbreviatedPath": "\/img\/citrouille-bio.jpg",
+		"outputAbbreviatedPath": "\/img\/citrouille-bio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/citrouille.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -29,6 +51,17 @@
 		"initialSize": 1.9545e+06,
 		"inputAbbreviatedPath": "\/img\/citrouille.jpg",
 		"outputAbbreviatedPath": "\/img\/citrouille.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/farine-pates-bio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 653467,
+		"inputAbbreviatedPath": "\/img\/farine-pates-bio.jpg",
+		"outputAbbreviatedPath": "\/img\/farine-pates-bio.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55,6 +88,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/legumesbio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 705147,
+		"inputAbbreviatedPath": "\/img\/legumesbio.jpg",
+		"outputAbbreviatedPath": "\/img\/legumesbio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/legumesbio1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -66,6 +110,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/local.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03839e+06,
+		"inputAbbreviatedPath": "\/img\/local.jpg",
+		"outputAbbreviatedPath": "\/img\/local.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/miel-bio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 608863,
+		"inputAbbreviatedPath": "\/img\/miel-bio.jpg",
+		"outputAbbreviatedPath": "\/img\/miel-bio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/navets-bio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 576557,
+		"inputAbbreviatedPath": "\/img\/navets-bio.jpg",
+		"outputAbbreviatedPath": "\/img\/navets-bio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oeufs-bio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 505676,
+		"inputAbbreviatedPath": "\/img\/oeufs-bio.jpg",
+		"outputAbbreviatedPath": "\/img\/oeufs-bio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/pain-farine-bio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -73,6 +161,17 @@
 		"initialSize": 2.04798e+06,
 		"inputAbbreviatedPath": "\/img\/pain-farine-bio.jpg",
 		"outputAbbreviatedPath": "\/img\/pain-farine-bio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/panier-bio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.22719e+06,
+		"inputAbbreviatedPath": "\/img\/panier-bio.jpg",
+		"outputAbbreviatedPath": "\/img\/panier-bio.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
