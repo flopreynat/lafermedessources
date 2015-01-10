@@ -11,17 +11,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/avatar.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 76720,
-		"inputAbbreviatedPath": "\/img\/avatar.png",
-		"outputAbbreviatedPath": "\/img\/avatar.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/bieres-bio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -66,13 +55,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/lafermedessources.png": {
-		"fileType": 32768,
+	"\/img\/jeromeduchemin.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 39459,
-		"inputAbbreviatedPath": "\/img\/lafermedessources.png",
-		"outputAbbreviatedPath": "\/img\/lafermedessources.png",
+		"initialSize": 3.23569e+06,
+		"inputAbbreviatedPath": "\/img\/jeromeduchemin.jpg",
+		"outputAbbreviatedPath": "\/img\/jeromeduchemin.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -130,7 +119,7 @@
 		"outputAbbreviatedPath": "\/img\/miel-bio.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/navets-bio.jpg": {
 		"fileType": 16384,
@@ -183,17 +172,6 @@
 		"initialSize": 1.58428e+06,
 		"inputAbbreviatedPath": "\/img\/philippeduchemin.jpg",
 		"outputAbbreviatedPath": "\/img\/philippeduchemin.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/philippeduchemin.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/img\/philippeduchemin.png",
-		"outputAbbreviatedPath": "\/img\/philippeduchemin.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
