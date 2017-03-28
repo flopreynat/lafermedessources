@@ -11,6 +11,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/201703-leparisien1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164735,
+		"inputAbbreviatedPath": "\/img\/201703-leparisien1.jpg",
+		"outputAbbreviatedPath": "\/img\/201703-leparisien1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/201703-leparisien2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53809,
+		"inputAbbreviatedPath": "\/img\/201703-leparisien2.jpg",
+		"outputAbbreviatedPath": "\/img\/201703-leparisien2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/agriculture-biologique.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -44,6 +66,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/cb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1426,
+		"inputAbbreviatedPath": "\/img\/cb.png",
+		"outputAbbreviatedPath": "\/img\/cb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/citrouille-bio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -73,6 +106,17 @@
 		"initialSize": 653467,
 		"inputAbbreviatedPath": "\/img\/farine-pates-bio.jpg",
 		"outputAbbreviatedPath": "\/img\/farine-pates-bio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/instagram.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13829,
+		"inputAbbreviatedPath": "\/img\/instagram.jpg",
+		"outputAbbreviatedPath": "\/img\/instagram.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
